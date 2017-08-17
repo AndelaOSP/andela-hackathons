@@ -6,8 +6,10 @@ This is our culture, a culture of craftmanship and collaboration; that's why we 
 
 Our next hack is scheduled for **Friday, September 8, 2017** in both **Lagos and Nairobi**. Details and Tickets can be found here:
 
-- **For Lagos** - TBD
-- **For Nairobi** - []
+- **[Lagos: Registration Link](https://www.eventbrite.com/e/andela-hackathon-ng-hack4culture-tickets-36116538539)**
+- **[Nairobi: Registration Link](https://www.eventbrite.com/e/andela-hackathon-hack4culture-tickets-36116300828)**
+
+**Theme:** Hack4Culture
 
 
 ### Hackathon Committee Members
