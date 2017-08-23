@@ -9,8 +9,8 @@ Our next hack is scheduled for **Friday, September 8, 2017** in both **Lagos and
 - **[Lagos: Registration Link](https://www.eventbrite.com/e/andela-hackathon-ng-hack4culture-tickets-36116538539)**
 - **[Nairobi: Registration Link](https://www.eventbrite.com/e/andela-hackathon-hack4culture-tickets-36116300828)**
 
-**Theme:** Hack4Culture
-**Sponsors:** P&C, Success
+**Theme:** Hack4Culture <br/>
+**Sponsors:** P&C, Success <br/>
 **Organizers:** Hackathon Committee, Sparks Society, Phoenix Society
 
 #### FAQs
