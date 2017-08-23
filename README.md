@@ -24,6 +24,9 @@ YES! People are going to pitch ideas on the final week towards the event and you
 **I'm not a developer, should I attend?**
 YES! You can still give your contribution through ideation, strategizing, etc.
 
+**Will there be prizes for winners?**
+Our internal hackathons are not meant to be a competition but a time of collaboration and fun. We would like to see senior developers collaborating with junior developers; staff with fellows, Nairobi with Lagos, etc. However, top teams will be awarded.
+
 
 ### Hackathon Committee Members
 
